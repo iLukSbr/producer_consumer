@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ator
+comment1.params=dep\ counter\ fruta\ imageView
+comment1.target=Ator(Deposito,\ javafx.scene.control.Label,\ Caixa,\ javafx.scene.image.ImageView)
+comment2.params=delay
+comment2.target=void\ setDelay(int)
+comment3.params=
+comment3.target=void\ pause()
+comment4.params=
+comment4.target=void\ resume()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=
+comment6.target=void\ moveLeft()
+comment7.params=
+comment7.target=void\ moveRight()
+comment8.params=
+comment8.target=javafx.scene.image.ImageView\ getImageView()
+numComments=9

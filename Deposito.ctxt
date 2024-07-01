@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Deposito
+comment1.params=capacidadeMaxima
+comment1.target=Deposito(int)
+comment2.params=fruta
+comment2.target=void\ colocar(Caixa)
+comment3.params=
+comment3.target=Caixa\ retirar()
+numComments=4

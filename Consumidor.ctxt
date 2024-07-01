@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Consumidor
+comment1.params=dep\ counter\ fruta\ imageView
+comment1.target=Consumidor(Deposito,\ javafx.scene.control.Label,\ Caixa,\ javafx.scene.image.ImageView)
+comment2.params=
+comment2.target=void\ run()
+numComments=3
